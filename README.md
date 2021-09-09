@@ -2,7 +2,7 @@
 # 👋 안녕하세요, 문영수입니다.
   :open_book: 현재 백엔드 개발자를 꿈꾸며 Java, Spring, SQL을 공부하고 있습니다.<br>
   :computer:임베디드 시스템, 데이터 분석 , 머신러닝 프로젝트의 경험이 있습니다.
-
+--------------------
 <!--
  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=Jupyter&logoColor=white">  <img src="https://img.shields.io/badge/-Pandas-navy?style=flat-square&logo=pandas&logoColor=white">  <img src="https://img.shields.io/badge/-NumPy-yellowgreen?style=flat-square&logo=NumPy&logoColor=white">  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=MongoDB&logoColor=white">
 --->
