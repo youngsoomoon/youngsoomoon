@@ -2,7 +2,7 @@
 # 👋 안녕하세요, 3년차 웹 개발자 문영수입니다.
 
   🏢 현재 금융사에서 웹 개발자로 재직중입니다.<br>
-  🏛️ 증권사 리스크관리 시스템: 시장리스크, 신용리스크, NCR, 유동성리스크
+  🏛️ 증권사 리스크관리 시스템: 시장리스크, 신용리스크, NCR, 유동성리스크 <br>
   :computer: 💙 Java - Spring FrameWork, JavaScript - ExtJs , DB - ORACLE, Server - Linux 💙 <br>
 
 <!--
