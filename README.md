@@ -3,4 +3,4 @@
 
   🏢 금융권 웹 개발 <br>
   🏛️ 증권사 리스크관리 시스템: 시장리스크, 신용리스크, NCR, 유동성리스크 <br>
-  :computer: 💙 Java - Spring FrameWork, JavaScript - ExtJs , DB - ORACLE, Server - Linux 💙
+  :computer: 💙 Java - Spring FrameWork, JavaScript - ExtJs , DBMS - ORACLE, Server - Linux 💙
